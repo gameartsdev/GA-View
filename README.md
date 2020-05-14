@@ -1,4 +1,4 @@
-# ga_0.2
+# GA-View-0.2
 
 ## Project setup
 ```
